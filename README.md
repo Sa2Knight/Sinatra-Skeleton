@@ -3,8 +3,11 @@ Sinatraアプリケーションを最短で構築する個人用リポジトリ
 
 ## 構成要素
 
+* Debian-jessie-amd64-netboot 3.16.0-4-amd64
 * nginx 1.10.2
 * ruby 2.2.2
+* gem 2.4.5
+* bundle 1.13.4
 * unicorn-5.2.0
 * sinatra-1.4.7
 
